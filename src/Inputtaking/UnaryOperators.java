@@ -20,6 +20,11 @@ public class UnaryOperators {
         // + : unary plus
         // - : unary minus
         // 47.2
-        
+
+        int var1 = 5, var2 =5;
+        System.out.println(var1++); //postfix .var will be printed or returned.then it will be incremented.
+        System.out.println(++var1);// prefix. var will incremented and then printed or returned.
+
+
     }
 }
