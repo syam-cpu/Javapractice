@@ -1,4 +1,4 @@
-package IterativeStatements;
+package L3;
 
 public class PrimeNumber {
     public static void main(String[] args) {

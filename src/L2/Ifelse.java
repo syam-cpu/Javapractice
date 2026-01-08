@@ -1,6 +1,4 @@
-package Inputtaking;
-
-import java.sql.SQLOutput;
+package L2;
 
 public class Ifelse {
 

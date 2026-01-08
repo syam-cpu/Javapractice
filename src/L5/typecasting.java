@@ -1,4 +1,4 @@
-package TypeCasting;
+package L5;
 
 public class typecasting {
 

@@ -1,4 +1,4 @@
-package Inputtaking;
+package L2;
 
 public class ArthematicOperators {
     /*

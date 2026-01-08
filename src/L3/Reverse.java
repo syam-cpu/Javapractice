@@ -1,4 +1,4 @@
-package IterativeStatements;
+package L3;
 
 import java.util.Scanner;
 
