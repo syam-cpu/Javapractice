@@ -75,6 +75,7 @@ public class Arraydemo {
         System.out.println(arr[0] + ", " + other[0]);
     }
 
+    //  the existence of one and two will be only present inside this function.
     public static void swap(int[] one, int[] two)
     {
         int[] temp = one;
